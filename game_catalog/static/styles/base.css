@@ -1,0 +1,9 @@
+body {
+    color: aliceblue;
+    background-color: rgb(47, 141, 55);
+    text-transform: uppercase;
+    width: 70%;
+    box-sizing: border-box;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
